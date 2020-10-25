@@ -24,8 +24,8 @@ public class Task1 {
 		System.out.println("Strings before swap: " + c + " and " + d);
 
 		c = c + d;
-		d = c.substring(0, 5);
-		c = c.substring(5);
+		d = c.substring(0, c.length()-d.length());
+		c = c.substring(d.length());
 		System.out.println("Strings after swap: " + c + " and " + d);
 	}
 
