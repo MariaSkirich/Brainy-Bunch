@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Brainy-Bunch.iml" filepath="$PROJECT_DIR$/Brainy-Bunch.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/BrainyBunch.iml" filepath="$PROJECT_DIR$/BrainyBunch.iml" />
->>>>>>> 61452a1672661f87484337c8e7d2d371ad5e73c9
+      <module fileurl="file://$PROJECT_DIR$/.idea/Brainy-Bunch.iml" filepath="$PROJECT_DIR$/.idea/Brainy-Bunch.iml" />
     </modules>
   </component>
 </project>
